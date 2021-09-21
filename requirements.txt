@@ -1,0 +1,10 @@
+h5py
+netCDF4
+astropy
+numpy
+matplotlib
+versioned-hdf5
+opencv-python
+wget
+pandas
+tables
