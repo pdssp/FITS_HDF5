@@ -11,8 +11,8 @@ dependencies:
   - numpy
   - matplotlib
   - versioned-hdf5
-  - opencv-python
+  - opencv
   - wget
   - pandas
-  - tables
+  - pytables
 
