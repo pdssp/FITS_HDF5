@@ -1,7 +1,0 @@
-name: Fits_HDF5
-channels:
-  - conda-forge
-dependencies:
-  - python=3.5
-  - pip:
-    - -r requirements.txt
