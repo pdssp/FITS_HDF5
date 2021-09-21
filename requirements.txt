@@ -1,7 +1,7 @@
 h5py
 netCDF4
 astropy
-numpy4
+numpy
 matplotlib
 versioned-hdf5
 opencv-python
